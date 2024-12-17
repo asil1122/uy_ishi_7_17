@@ -1,7 +1,7 @@
 import { Detail } from "@/components/detail";
 import Image from "next/image";
 
-export default function Home() {
+export default function Info() {
   return (
     <div className="container flex gap-[30px]">
       <div className="w-[255px] pt-[94px]">
