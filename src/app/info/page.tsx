@@ -78,6 +78,7 @@ export default function Info() {
         </div>
         <ul>
             <Detail params={{id: 112, title: "New feedback feature", description: "Allow users to add new feedback and ratings", type: "Feature", votes: 2}}/>
+            <Detail params={{id: 110, title: 'adad', description: 'adada', type: 'afafa', votes: 112}}/>
         </ul>
       </div>
     </div>
